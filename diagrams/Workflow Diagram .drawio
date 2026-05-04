@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="j4C429bXSVU8iGuv0BeC">
+    <mxGraphModel dx="1458" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Vehicle Registration" vertex="1">
+          <mxGeometry height="60" width="160" x="30" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Permit Request" vertex="1">
+          <mxGeometry height="60" width="160" x="230" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Zone Check" vertex="1">
+          <mxGeometry height="60" width="160" x="430" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Permit Approval" vertex="1">
+          <mxGeometry height="60" width="160" x="630" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Parking Verification" vertex="1">
+          <mxGeometry height="60" width="160" x="830" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="7" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
